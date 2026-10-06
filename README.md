@@ -1,8 +1,12 @@
-\# Operating System Lab
+\# 💻 Operating System Lab
 
 
 
-This repository contains the programs and practical implementations completed during the \*\*Operating System Lab\*\* as part of my \*\*Bachelor of Engineering in Information Technology (BEIT)\*\* course.
+This repository contains the \*\*programs and practical implementations\*\* completed during the \*\*Operating System Lab\*\* as part of my \*\*Bachelor of Engineering in Information Technology (BEIT)\*\* course.
+
+
+
+\---
 
 
 
@@ -10,21 +14,59 @@ This repository contains the programs and practical implementations completed du
 
 
 
-\- Basic Linux Commands
+The practical work in this repository covers the following \*\*Operating System concepts\*\*:
 
-\- Basic Windows Commands
 
-\- System Calls
 
-\- Scheduling Algorithms
+\### 🐧 Basic Linux Commands
 
-\- SRTF (Shortest Remaining Time First) Scheduling
+Basic commands and operations performed in the Linux environment.
 
-\- Race Condition
 
-\- Producer-Consumer Problem
 
-\- Process Synchronization
+\### 🪟 Basic Windows Commands
+
+Basic commands and operations performed in the Windows environment.
+
+
+
+\### ⚙️ System Calls
+
+Practical implementation and understanding of \*\*System Calls\*\*.
+
+
+
+\### 🔄 Scheduling Algorithms
+
+Implementation and understanding of different \*\*CPU Scheduling Algorithms\*\*.
+
+
+
+\### ⏱️ SRTF Scheduling
+
+Implementation of \*\*Shortest Remaining Time First (SRTF)\*\* scheduling.
+
+
+
+\### 🔒 Race Condition
+
+Understanding and practical implementation of \*\*Race Condition\*\* in process execution.
+
+
+
+\### 🔄 Producer-Consumer Problem
+
+Implementation and understanding of the \*\*Producer-Consumer Problem\*\*.
+
+
+
+\### 🔗 Process Synchronization
+
+Understanding the concepts of \*\*Process Synchronization\*\* and its practical implementation.
+
+
+
+\---
 
 
 
@@ -32,15 +74,23 @@ This repository contains the programs and practical implementations completed du
 
 
 
-\- C Programming
+| Tool / Technology | Used For |
 
-\- Linux
+|---|---|
 
-\- Windows
+| \*\*C Programming\*\* | Implementing Operating System programs |
 
-\- GCC Compiler
+| \*\*Linux\*\* | Linux commands and practicals |
 
-\- VS Code
+| \*\*Windows\*\* | Windows commands and practicals |
+
+| \*\*GCC Compiler\*\* | Compiling C programs |
+
+| \*\*VS Code\*\* | Code editing and development |
+
+
+
+\---
 
 
 
@@ -52,13 +102,19 @@ The main purpose of this repository is to:
 
 
 
-\- Practice Operating System concepts through practical implementation.
+\- \*\*Practice\*\* Operating System concepts through practical implementation.
 
-\- Understand different Operating System algorithms and concepts.
+\- \*\*Understand\*\* different Operating System algorithms and concepts.
 
-\- Gain hands-on experience with Linux and Windows commands.
+\- \*\*Gain hands-on experience\*\* with Linux and Windows commands.
 
-\- Keep Operating System Lab programs organized for future reference and revision.
+\- \*\*Implement\*\* scheduling and synchronization concepts.
+
+\- \*\*Maintain\*\* Operating System Lab programs for future reference and revision.
+
+
+
+\---
 
 
 
@@ -66,9 +122,17 @@ The main purpose of this repository is to:
 
 
 
-\*\*Sudesh Bhattarai\*\*
+\### \*\*Sudesh Bhattarai\*\*
 
 
 
-BEIT Student
+\*\*BEIT Student\*\*
+
+
+
+\---
+
+
+
+⭐ \*\*This repository contains my Operating System Lab work and practical implementations.\*\*
 
