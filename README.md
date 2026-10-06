@@ -1,100 +1,74 @@
-\# 💻 Operating System Lab
+\*\*Operating System Lab\*\*
 
 
 
-This repository contains the \*\*programs and practical implementations\*\* completed during the \*\*Operating System Lab\*\* as part of my \*\*Bachelor of Engineering in Information Technology (BEIT)\*\* course.
+This repository contains the programs and practical implementations completed during the Operating System Lab as part of my Bachelor of Engineering in Information Technology (BEIT) course.
 
 
 
-\---
 
 
+\*\*Topics Covered\*\*
 
-\## 📚 Topics Covered
 
 
+1\. Basic Linux Commands
 
-The practical work in this repository covers the following \*\*Operating System concepts\*\*:
+2\. Basic Windows Commands
 
+3\. System Calls
 
+4\. Scheduling Algorithms
 
-\### 🐧 Basic Linux Commands
+5\. SRTF (Shortest Remaining Time First) Scheduling
 
-Basic commands and operations performed in the Linux environment.
+6\. Race Condition
 
+7\. Producer-Consumer Problem
 
+8\. Process Synchronization
 
-\### 🪟 Basic Windows Commands
 
-Basic commands and operations performed in the Windows environment.
 
 
 
-\### ⚙️ System Calls
+\*\*Tools and Technologies\*\*
 
-Practical implementation and understanding of \*\*System Calls\*\*.
 
 
+1\. C Programming - used for implementing Operating System programs
 
-\### 🔄 Scheduling Algorithms
+2\. Linux - used for Linux commands and practical exercises
 
-Implementation and understanding of different \*\*CPU Scheduling Algorithms\*\*.
+3\. Windows - used for Windows commands and practical exercises
 
+4\. GCC Compiler - used for compiling C programs
 
+5\. VS Code - used for writing and managing code
 
-\### ⏱️ SRTF Scheduling
 
-Implementation of \*\*Shortest Remaining Time First (SRTF)\*\* scheduling.
 
 
 
-\### 🔒 Race Condition
+\*\*Learning Outcomes\*\*
 
-Understanding and practical implementation of \*\*Race Condition\*\* in process execution.
 
 
+1\. Use essential Linux and Windows commands
 
-\### 🔄 Producer-Consumer Problem
+2\. Write C programs that use OS system calls
 
-Implementation and understanding of the \*\*Producer-Consumer Problem\*\*.
+3\. Implement and compare CPU scheduling algorithms
 
+4\. Explain and demonstrate race conditions
 
+5\. Solve the Producer-Consumer problem using synchronization
 
-\### 🔗 Process Synchronization
 
-Understanding the concepts of \*\*Process Synchronization\*\* and its practical implementation.
 
 
 
-\---
-
-
-
-\## 🛠️ Tools \& Technologies
-
-
-
-| Tool / Technology | Used For |
-
-|---|---|
-
-| \*\*C Programming\*\* | Implementing Operating System programs |
-
-| \*\*Linux\*\* | Linux commands and practicals |
-
-| \*\*Windows\*\* | Windows commands and practicals |
-
-| \*\*GCC Compiler\*\* | Compiling C programs |
-
-| \*\*VS Code\*\* | Code editing and development |
-
-
-
-\---
-
-
-
-\## 🎯 Purpose
+\*\*Purpose\*\*
 
 
 
@@ -102,37 +76,35 @@ The main purpose of this repository is to:
 
 
 
-\- \*\*Practice\*\* Operating System concepts through practical implementation.
+1\. Practice Operating System concepts through practical implementation.
 
-\- \*\*Understand\*\* different Operating System algorithms and concepts.
+2\. Understand different Operating System algorithms and concepts.
 
-\- \*\*Gain hands-on experience\*\* with Linux and Windows commands.
+3\. Gain hands-on experience with Linux and Windows commands.
 
-\- \*\*Implement\*\* scheduling and synchronization concepts.
+4\. Implement scheduling and process synchronization concepts.
 
-\- \*\*Maintain\*\* Operating System Lab programs for future reference and revision.
-
-
-
-\---
+5\. Keep Operating System Lab programs organized for future reference and revision.
 
 
 
-\## 👨‍💻 Author
+
+
+\*\*Project Status\*\*
 
 
 
-\### \*\*Sudesh Bhattarai\*\*
+This repository contains the practical work completed during the Operating System Lab as part of my BEIT coursework. 
 
 
 
-\*\*BEIT Student\*\*
+\*\*Author\*\*
 
 
 
-\---
+Sudesh Bhattarai
 
 
 
-⭐ \*\*This repository contains my Operating System Lab work and practical implementations.\*\*
+BEIT Student
 
